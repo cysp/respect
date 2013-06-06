@@ -239,6 +239,7 @@
 		09EE594315AB031C00826871 /* ExpressionSignature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExpressionSignature.m; sourceTree = "<group>"; };
 		09F841D215AEE9CB004F9CF9 /* PeekableEnumerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PeekableEnumerator.h; sourceTree = "<group>"; };
 		09F841D315AEE9CB004F9CF9 /* PeekableEnumerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PeekableEnumerator.m; sourceTree = "<group>"; };
+		2C5662311760BBB400EBCD54 /* xcconfig_test11.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = xcconfig_test11.xcconfig; sourceTree = "<group>"; };
 		CD08089615F7E39800B5CACD /* PBXProjectTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PBXProjectTest.h; sourceTree = "<group>"; };
 		CD08089715F7E39800B5CACD /* PBXProjectTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PBXProjectTest.m; sourceTree = "<group>"; };
 		CD08093E1606587900B5CACD /* TextLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextLocation.h; sourceTree = "<group>"; };
@@ -445,6 +446,7 @@
 				09B09467175BCC840062E8ED /* xcconfig_test2.xcconfig */,
 				09B0946A175BCC840062E8ED /* xcconfig_test2_1.xcconfig */,
 				09B09469175BCC840062E8ED /* xcconfig_test2_2.xcconfig */,
+				2C5662311760BBB400EBCD54 /* xcconfig_test11.xcconfig */,
 			);
 			name = XCConfigParserTest;
 			sourceTree = "<group>";

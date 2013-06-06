@@ -87,6 +87,7 @@ static BOOL XCConfigParserTestCase(NSString *testName) {
     STAssertTrue(XCConfigParserTestCase(@"xcconfig_test8.xcconfig"), @"");
     STAssertTrue(XCConfigParserTestCase(@"xcconfig_test9.xcconfig"), @"");
     STAssertTrue(XCConfigParserTestCase(@"xcconfig_test10.xcconfig"), @"");
+    STAssertTrue(XCConfigParserTestCase(@"xcconfig_test11.xcconfig"), @"");
 }
 
 @end

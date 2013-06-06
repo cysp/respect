@@ -191,7 +191,7 @@ static NSError *makeParserError(NSString *string,
     NSMutableArray *tokens = [NSMutableArray array];
     NSCharacterSet *whitespaceSet = [NSCharacterSet whitespaceAndNewlineCharacterSet];
     NSMutableCharacterSet *nameSet = [NSMutableCharacterSet alphanumericCharacterSet];
-    [nameSet addCharactersInString:@"_"]; // hmm
+    [nameSet addCharactersInString:@"_[]=*"]; // hmm
     NSUInteger length = [string length];
     
     NSUInteger i = 0;

@@ -1,0 +1,3 @@
+//EXPECT: foo[sdk=iphoneos*] = bar
+
+foo[sdk=iphoneos*] = bar
